@@ -1,0 +1,29 @@
+{
+  "name": "ccomm",
+  "version": "1.0.0",
+  "description": "cComm is an eCommerce store that sell Samsung products.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" :  "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesnnanna/cComm.git"
+  },
+  "keywords": [
+    "samsung",
+    "electronics",
+    "phones",
+    "televisions"
+  ],
+  "author": "Charles Uthulor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlesnnanna/cComm/issues"
+  },
+  "homepage": "https://github.com/charlesnnanna/cComm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
