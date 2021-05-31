@@ -4,8 +4,11 @@
   "description": "cComm is an eCommerce store that sell Samsung products.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start" :  "node app"
+  },
+  "engines": {
+    "node": "15.14.0",
+    "npm" : "7.14.0"
   },
   "repository": {
     "type": "git",
