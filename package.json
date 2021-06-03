@@ -4,11 +4,11 @@
   "description": "cComm is an eCommerce store that sell Samsung products.",
   "main": "app.js",
   "scripts": {
-    "start" :  "node app"
+    "start": "node app"
   },
   "engines": {
     "node": "15.14.0",
-    "npm" : "7.14.0"
+    "npm": "7.15.1"
   },
   "repository": {
     "type": "git",
@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/charlesnnanna/cComm#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
   }
 }
